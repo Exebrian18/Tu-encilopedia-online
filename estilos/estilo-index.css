@@ -1,0 +1,118 @@
+*{
+}
+#h1-1{
+color: green;
+display: inline-block;
+padding:0;
+font-size: 100px;
+margin: 0;
+margin-left: 170px;
+margin-right: 0;
+}
+#h2-1{
+color: yellowgreen;
+display: inline-block;
+padding: 0;
+font-size: 40px;
+margin: 0;
+margin-left: 170px;
+margin-right: 0px;
+}
+#h2-2{
+color: yellowgreen;
+display: inline-block;
+padding: 0;
+font-size: 40px;
+margin: 0;
+margin-left: 220px;
+margin-right: 0px;
+}
+#h2-3{
+color: darkgreen;
+display: inline-block;
+padding: 0;
+font-size: 70px;
+margin: 0;
+margin-left: 750px;
+margin-right: 0px;
+}
+.planilla{
+font-family: arial black;
+background-color: #90ff7f;
+padding-bottom: 200px;
+padding-top: 150px;
+padding-left: 100px;
+}
+.barrr-nav{
+
+}
+.barr-nav>ul{
+
+background-color: darkgreen;
+list-style-type: none;
+margin: 0;
+padding: 0;
+padding-top: 35px;
+padding-bottom: 35px;
+}
+.barr-nav>ul>li{
+margin-right: 30px;
+display: inline-block;
+}
+.barr-nav>ul>li>a{
+font-family: arial black;
+padding: 4px;
+text-decoration: none;
+color: white;
+font-size: 35px;
+}
+.barr-nav ul li a:hover{
+background-color: lightyellow ;
+}
+#pagina-1{
+	background-color: lightgreen;
+}
+#h1-2{
+margin-top: 0;
+font-family: arial black;
+}
+article h2{
+	font-family: arial black;
+}
+article h1{
+font-family: arial black;
+}
+article p{
+font-family:  arial;
+}
+h2{
+	font-family: arial black;
+}
+#imagen-1{
+	outline: 25px solid darkgreen;
+	margin: 25px;
+	width: 950px;
+	right: 510px;
+	align-content: center;
+}
+#seccion-1{
+	margin-top:0;
+    outline:3px  solid darkgreen;
+    background-color: lightpink;
+}
+#seccion-1-h2{
+	margin-top: 5px;
+	padding-top: 0;
+}
+#seccio-1-parrafo{
+	margin-left: 30px;
+	width: 830px;
+	display: inline-block;
+}
+#imagen-2{
+	margin-bottom: 10px;
+	margin-left: 400px;
+	width: 300px;
+	right: 500px;
+	outline: 10px solid violet; 
+}
